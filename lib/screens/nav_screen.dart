@@ -146,7 +146,7 @@ class _NavScreenState extends State<NavScreen> {
                                   value: 0.4,
                                   valueColor:
                                       AlwaysStoppedAnimation(Colors.red),
-                                )
+                                ),
                               ],
                             ),
                           ),
